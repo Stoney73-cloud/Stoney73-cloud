@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML,CSS and JS
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me (obura.hemstone@gmail.com)
-- 😄 Pronouns: He
+
 - ⚡ Fun fact: 
 
 <!---
